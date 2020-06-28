@@ -1,15 +1,18 @@
 ## Tutorial: Creating a Slack Anonymous App
 
 Howdy!
+
 ![hat](https://raw.githubusercontent.com/Jfeatherstone/SlackAppTutorial/master/hat.png)
 
-This is a tutorial on how to setup a basic app for a Slack workspace that will allow you to anonymously send messages. I will assume that you have little to no prior knowledge of programming (a little bit of Python may be useful though), server hosting, or Slack apps in general. I have done my best to explain every topic as clearly and simply as possible, and it is my hope that anyone will be able to setup a similar app in less than a few hours with the help of this tutorial. If you're ready to jump right in, head over on over to the [wiki](https://github.com/Jfeatherstone/SlackAppTutorial/wiki), otherwise stick around for a brief overview of the tutorial.
+This is a tutorial on how to setup a basic app for a Slack workspace that will allow you to anonymously send messages. If you are interested in building a Slack app other than an anonymous messager, I'd still recommend you check out the tutorial, since you'll find that a lot of the code will be the same regarldess of the project.
+
+I will assume that you have little to no prior knowledge of programming (a little bit of Python may be useful though), server hosting, or Slack apps in general. I have done my best to explain every topic as clearly and simply as possible, and it is my hope that anyone will be able to setup a similar app in less than a few hours with the help of this tutorial. If you're ready to jump right in, head over on over to the [wiki](https://github.com/Jfeatherstone/SlackAppTutorial/wiki), otherwise stick around for a brief overview of the tutorial.
 
 If you're already familiar with Python/server hosting, feel free to just clone this repository and use the wiki as a reference.
 
 If you have any questions/comments about the tutorial, you can submit an issue on the repository (if you know how to do that) or just send me an email (can be found on my Github profile page).
 
-*This tutorial is very much a work in progress, and certain pages may be incomplete/non-existent.*
+*This tutorial is very much a work in progress, and certain pages may be incomplete/non-existent. If you would like help with a step that isn't posted yet, feel free to email me and I'd be more than happy to help out!*
 
 ### Tutorial Outline
 
