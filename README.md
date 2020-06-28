@@ -1,4 +1,4 @@
-## Tutorial: Creating a Slack Anonymous App
+# Tutorial: Creating a Slack Anonymous App (or any app)
 
 Howdy!
 
@@ -6,7 +6,17 @@ Howdy!
 
 This is a tutorial on how to setup a basic app for a Slack workspace that will allow you to anonymously send messages. If you are interested in building a Slack app other than an anonymous messager, I'd still recommend you check out the tutorial, since you'll find that a lot of the code will be the same regarldess of the project.
 
-I will assume that you have little to no prior knowledge of programming (a little bit of Python may be useful though), server hosting, or Slack apps in general. I have done my best to explain every topic as clearly and simply as possible, and it is my hope that anyone will be able to setup a similar app in less than a few hours with the help of this tutorial. If you're ready to jump right in, head over on over to the [wiki](https://github.com/Jfeatherstone/SlackAppTutorial/wiki), otherwise stick around for a brief overview of the tutorial.
+### There's tons of tutorials for similar projects, how is this one different?
+
+With Slack as popular as it is, you can expect that there are *tons* of other tutorials that have similar end goals. To list a few:
+
+- https://github.com/slackapi/python-slackclient/tree/master/tutorial
+- https://blog.begin.com/build-an-infinitely-scalable-slack-app-in-5-minutes-972789924f3f
+- https://api.slack.com/tutorials (I got the previous two from here)
+
+What I believe makes this guide useful is the following: I will assume that you have little to no prior knowledge of programming (a little bit of Python may be useful though), server hosting, or Slack apps in general. I have done my best to explain every topic as clearly and simply as possible, and it is my hope that anyone will be able to setup a similar app in less than a few hours with the help of this tutorial. Improving communication methods is something that shouldn't be restricted to those who work in IT/computer science/etc., since it has beneficial outcomes in every field.
+
+If you're ready to jump right in, head over on over to the [wiki](https://github.com/Jfeatherstone/SlackAppTutorial/wiki), otherwise stick around for a brief overview of the tutorial.
 
 If you're already familiar with Python/server hosting, feel free to just clone this repository and use the wiki as a reference.
 
