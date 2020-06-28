@@ -1,8 +1,7 @@
-## Tutorial: Creating a Slack App
-
-![hat](https://raw.githubusercontent.com/Jfeatherstone/SlackAppTutorial/master/hat.png)
+## Tutorial: Creating a Slack Anonymous App
 
 Howdy!
+![hat](https://raw.githubusercontent.com/Jfeatherstone/SlackAppTutorial/master/hat.png)
 
 This is a tutorial on how to setup a basic app for a Slack workspace that will allow you to anonymously send messages. I will assume that you have little to no prior knowledge of programming (a little bit of Python may be useful though), server hosting, or Slack apps in general. I have done my best to explain every topic as clearly and simply as possible, and it is my hope that anyone will be able to setup a similar app in less than a few hours with the help of this tutorial. If you're ready to jump right in, head over on over to the [wiki](https://github.com/Jfeatherstone/SlackAppTutorial/wiki), otherwise stick around for a brief overview of the tutorial.
 
@@ -10,11 +9,14 @@ If you're already familiar with Python/server hosting, feel free to just clone t
 
 If you have any questions/comments about the tutorial, you can submit an issue on the repository (if you know how to do that) or just send me an email (can be found on my Github profile page).
 
+*This tutorial is very much a work in progress, and certain pages may be incomplete/non-existent.*
+
 ### Tutorial Outline
 
 1. Overview of Concepts
     - We begin by discussing a bit of background information on how Slack apps work, what an HTTP request is, and how you would respond to one. There's no programming involved here, so if you're already familiar with this stuff, feel free to skim/skip it.
 2. Creating a Slack App
+    - Here we'll cover how to create an app from the Slack API side of things, and how to configure some of the properties that define how it looks to your users.
 3. What is a "Platform as a Service"
     - In this section, I talk about what a "Platform as a Service" is, and describe two particular examples that I will explicitly cover in this tutorial: AWS and Heroku. From here on out, there will be two separate pages for the next few steps, one for each service.
 4. Setting up Accounts
